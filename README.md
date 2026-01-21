@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ankitsingh79 - Ankit Singh
 - 👀 I’m interested in Development and coding.
-- 🌱 I’m currently learning Web Development, etc.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ankitsingh79386@gmail.com
 - 😄 Pronouns: He/Him
